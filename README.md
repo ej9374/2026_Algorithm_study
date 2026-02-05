@@ -8,7 +8,7 @@
 algorithm_study/
  ├── Week01/                   # 이번 주차 폴더
  │    ├── [BOJ] A+B/           # [출처] 문제이름
- │    │    ├── Eunji.java       # 본인 이름.확장자
+ │    │    ├── Eunji.java      # 본인 이름.확장자
  │    │    └── Subin.cpp
  │    └── [PGS] 기능개발/
  │         ├── Eunji.java
